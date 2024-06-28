@@ -1,8 +1,20 @@
-# Welcome
+---
+description: >-
+  The unopinionated Rollup-as-a-Service platform for Rollup Legos and the
+  modular appchain thesis.
+---
+
+# 🧱 Welcome
+
+<div align="center">
+
+<figure><img src=".gitbook/assets/rollup-legos-banner.png" alt="" width="563"><figcaption><p>Rollup Legos 🧱</p></figcaption></figure>
+
+</div>
 
 Thanks for checking out the **absolute earliest version** of our docs!
 
-We're building the unopinionated platform Rollup Legos. We're just getting started and we're excited to announce more real soon.
+We're building the unopinionated platform Rollup Legos 🧱. We're just getting started and we're excited to announce more real soon.
 
 We currently operate a closed Telegram group chat for early access members. If you'd like to join it, please reach out at any of the below links and we'll add you.
 

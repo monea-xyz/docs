@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [🧱 Welcome](README.md)
 * [What is Monea?](what-is-monea.md)
 * [Rollup Legos](rollup-legos.md)
 
