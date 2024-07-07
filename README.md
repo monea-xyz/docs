@@ -1,10 +1,12 @@
 ---
-description: >-
-  The unopinionated Rollup-as-a-Service platform for Rollup Legos and the
-  modular appchain thesis.
+description: The platform for building custom based appchains using Rollup Legos.
 ---
 
 # 🧱 Welcome
+
+{% hint style="warning" %}
+**NOTE:** The content in these docs is a _bit_ outdated. We now have an updated "blurb" description of what Monea is becoming (as of July 6th, 2024). [Please check out our website](https://monea.xyz) for a more accurate description. I swear I'll update these docs soon :) – Jacob D. Castro, CEO
+{% endhint %}
 
 <div align="center">
 
