@@ -1,10 +1,10 @@
 # templates
 
 ```bash
-$ monea-cli templates --help
+$ monea templates --help
 Manage templates
 
-Usage: monea-cli templates <COMMAND>
+Usage: monea templates <COMMAND>
 
 Commands:
   new     Create a new template

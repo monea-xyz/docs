@@ -7,10 +7,10 @@ description: >-
 # Reference
 
 ```bash
-$ monea-cli --help
+$ monea --help
 An unopinionated CLI tool for playing rollup legos.
 
-Usage: monea-cli <COMMAND>
+Usage: monea <COMMAND>
 
 Commands:
   run            Run the Monea command

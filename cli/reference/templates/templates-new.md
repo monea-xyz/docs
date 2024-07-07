@@ -5,10 +5,10 @@ description: Creates a new template with any option, and gives it a name.
 # templates new
 
 ```bash
-$ monea-cli templates new --help
+$ monea templates new --help
 Create a new template
 
-Usage: monea-cli templates new [OPTIONS] --name <NAME>
+Usage: monea templates new [OPTIONS] --name <NAME>
 
 Options:
   -n, --name <NAME>

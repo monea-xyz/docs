@@ -18,7 +18,7 @@ brew install monea-cli
 ## Usage
 
 ```
-monea-cli --help
+monea --help
 ```
 
 For more info, view the [CLI reference docs](broken-reference) or check out the [Github Repo](https://github.com/monea-labs/monea-cli).  :)
@@ -28,19 +28,19 @@ For more info, view the [CLI reference docs](broken-reference) or check out the 
 To spin up a local and default Polygon zkEVM CDK chain setup:
 
 ```
-monea-cli run --execution polygon-cdk
+monea run --execution polygon-cdk
 ```
 
 To deploy a public cloud optimium L3 (rolls up into Base L2) with Celestia data availability onto Monea Cloud:
 
 ```
-monea-cli deploy --execution op-stack --data-availability celestia --settlement base
+monea deploy --execution op-stack --data-availability celestia --settlement base
 ```
 
 To create 2 template setups and run each locally at the same time:
 
 ```
-monea-cli templates new --name my-first-l2 --execution op-stack --sequencer espresso
-monea-cli templates new --name another-l2 --execution op-stack --sequencer based
-monea-cli run my-first-l2 my-other-l2
+monea templates new --name my-first-l2 --execution op-stack --sequencer espresso
+monea templates new --name another-l2 --execution op-stack --sequencer based
+monea run my-first-l2 my-other-l2
 ```

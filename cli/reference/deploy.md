@@ -7,10 +7,10 @@ description: >-
 # deploy
 
 ```basic
-$ monea-cli deploy --help
+$ monea deploy --help
 Deploy the Monea command
 
-Usage: monea-cli deploy [OPTIONS] [POSITIONAL_TEMPLATES]...
+Usage: monea deploy [OPTIONS] [POSITIONAL_TEMPLATES]...
 
 Arguments:
   [POSITIONAL_TEMPLATES]...  Positional template names

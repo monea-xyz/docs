@@ -5,10 +5,10 @@ description: Spins up a local Docker instance of the selected options or templat
 # run
 
 ```bash
-$ monea-cli run --help
+$ monea run --help
 Run the Monea command
 
-Usage: monea-cli run [OPTIONS] [POSITIONAL_TEMPLATES]...
+Usage: monea run [OPTIONS] [POSITIONAL_TEMPLATES]...
 
 Arguments:
   [POSITIONAL_TEMPLATES]...  Positional template names
