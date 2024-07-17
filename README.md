@@ -5,7 +5,7 @@ description: The platform for building custom based appchains using Rollup Legos
 # 🧱 Welcome
 
 {% hint style="warning" %}
-**NOTE:** The content in these docs is a _bit_ outdated. We have an updated "blurb" description of what we're building at Monea (as of July 6th, 2024). [Please check out our website](https://monea.xyz) in the meantime. I swear I'll update these docs soon :) – Jacob D. Castro, CEO
+**NOTE:** The content in these docs is a _bit_ outdated. We have an updated "blurb" description of what we're building at Monea (as of July 17th, 2024). [Please check out our website](https://monea.xyz) in the meantime. I swear I'll update these docs soon :) – Jacob D. Castro, CEO
 {% endhint %}
 
 <div align="center">

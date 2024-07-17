@@ -6,7 +6,11 @@ description: >-
 
 # Getting Started
 
-> Please note this CLI is NON-FUNCTIONAL. It is just a basic `println()` demo for what is to come. `monea-cli` WILL not run or deploy any containers on your machine. You can play around at-will.
+{% hint style="info" %}
+Since I wrote the initial Monea CLI demo, we've changed the way we think about Appchain development. The specs for Monea's tooling has also evolved with the times. Some of the ref docs here will remain familiar, but there are plenty more features to come! – Jacob D. Castro, CEO (July 17th, 2024)
+{% endhint %}
+
+> Please note this CLI is NON-FUNCTIONAL. It is just a basic `println()` demo for what is to come. `monea-cli` WILL not run or deploy any containers on your machine. You can play around at-will
 
 ## Installing
 
@@ -21,7 +25,7 @@ brew install monea-cli
 monea --help
 ```
 
-For more info, view the [CLI reference docs](broken-reference) or check out the [Github Repo](https://github.com/monea-labs/monea-cli).  :)
+For more info, view the [CLI reference docs](reference/) or check out the [Github Repo](https://github.com/monea-labs/monea-cli).  :)
 
 ## Examples
 
